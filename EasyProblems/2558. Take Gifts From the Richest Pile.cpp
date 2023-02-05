@@ -22,3 +22,4 @@ public:
         return sum-ans;
     }
 };
+// Link : https://leetcode.com/problems/take-gifts-from-the-richest-pile/description/

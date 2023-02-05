@@ -5,7 +5,6 @@ public:
         for(i=0;i<n;i++)
             if(v[1]<intervals[i][0])
                 break;
-            cout<<i<<" ";
         if(i==0)
             intervals.insert(intervals.begin(),v);
         else
